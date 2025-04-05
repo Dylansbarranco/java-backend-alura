@@ -54,4 +54,9 @@ Dilan Barranco
 Estudiante de Ingeniería de Sistemas y apasionado por el desarrollo backend, la programación limpia y los proyectos con propósito.
 
 📌 Notas
-Este repo es parte de mi práctica personal. No representa los ejercicios oficiales del curso, sino mi propia interpretación, pruebas y aprendizaje continuo.
+
+⚙️ Este repositorio fue creado con el propósito de documentar mi proceso de aprendizaje.
+No busca replicar exactamente los ejercicios oficiales, sino servir como bitácora personal de todo lo que voy explorando, practicando y entendiendo en el camino.
+
+
+
