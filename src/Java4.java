@@ -9,14 +9,14 @@ public class Java4 {
         if (contraseña.length() >= 8) {
 
          if (contraseña.contains("A") || contraseña.contains("E") || contraseña.contains("I") || contraseña.contains("O") || contraseña.contains("U")) {
-          if (contraseña.matches(".*\\d.*")) {
-              System.out.println("Tu contraseña es segura");
-                }
-            }
+             if (contraseña.matches(".*\\d.*")) {
+                 System.out.println("Tu contraseña es segura");
+              }
+          }
 
-            } else
+        } else
             System.out.println("Tu contraseña no es segura");
-        }
-
     }
+
+}
 
